@@ -1,0 +1,3 @@
+Rastgele unique elemanlardan oluşan 18 elemanlı sırasız listenizi 3 parçaya 
+sürekli bölecek ve sonrasında sıralanacak şekilde Merge sort mantığını 
+kullanarak kodlayınız. Aşamaları print ettiriniz
